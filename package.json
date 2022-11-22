@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "tp2-tp-integrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kreitouss/TP2-TP-Integrador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kreitouss/TP2-TP-Integrador/issues"
+  },
+  "homepage": "https://github.com/Kreitouss/TP2-TP-Integrador#readme",
+  "dependencies": {
+    "nodemailer": "^6.8.0"
+  }
+}
